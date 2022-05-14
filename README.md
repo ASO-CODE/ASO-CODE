@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ASO-CODE a product designer and web developer 
-- 👀 I’m interested in designing and build user friendly products 
+- 👋 Hi, I’m @ASO-CODE a Frontend developer
+- 👀 I’m interested build user friendly products 
 - 🌱 I’m currently learning javascript and react to improve my development skills
-- 💞️ I’m looking to collaborate on frontend projects and design projects
+- 💞️ I’m looking to collaborate on frontend projects
 - 📫 Reach out to me @ Solomon.awanle@gmail.com
 
 <!---
