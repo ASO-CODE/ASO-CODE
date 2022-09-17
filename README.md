@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ASO-CODE a Frontend developer
-- 👀 I’m interested build user friendly products 
+- 👋 Hi, I’m Awanle Solomon a Frontend developer
+- 👀 I’m interested in building user friendly products 
 - 🌱 I use javascript and react to build fantastic UI for smooth user experience 
 - 💞️ I’m open to collaborate on frontend projects
 - 📫 Reach out to me @ Solomon.awanle@gmail.com
